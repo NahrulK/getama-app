@@ -3,8 +3,8 @@ import "./SingleProduct.css";
 
 const SingleProduct = () => {
   return (
-    <div>
-      {/* <div class="bg-light py-3">
+    <div className="container">
+      <div class="bg-light py-3">
         <div class="container">
           <div class="row">
             <div class="col-md-12 mb-0">
@@ -13,7 +13,7 @@ const SingleProduct = () => {
             </div>
           </div>
         </div>
-      </div> */}
+      </div>
 
       <div class="site-section">
         <div class="container">
